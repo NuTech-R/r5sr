@@ -1,7 +1,7 @@
 repositories:
   epos:
     type: git
-    url: git@github.com:Nexis-R/epos.git
+    url: git@github.com:NuTech-R/epos.git
     version: master
 
   rplidar_ros2:
@@ -21,7 +21,7 @@ repositories:
 
   audio_common:
     type: git
-    url: git@github.com:Nexis-R/audio_common.git
+    url: git@github.com:NuTech-R/audio_common.git
     version: humble_without_sound_play
 
   yolo_ros:
@@ -31,5 +31,5 @@ repositories:
 
   rms_ros2_client:
     type: git
-    url: git@github.com:Nexis-R/rms_ros2_client.git
+    url: git@github.com:NuTech-R/rms_ros2_client.git
     version: develop

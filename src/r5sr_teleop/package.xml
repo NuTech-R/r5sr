@@ -4,7 +4,7 @@
   <name>r5sr_teleop</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="nexisr2016@gmail.com">Nexis-R</maintainer>
+  <maintainer email="nexisr2016@gmail.com">NuTech-R</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

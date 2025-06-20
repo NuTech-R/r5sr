@@ -1,5 +1,5 @@
 # R5SR
-Nexis-Rの遠隔操縦型移動作業ロボット**R5S**のROS 2システム\
+NuTech-Rの遠隔操縦型移動作業ロボット**R5S**のROS 2システム\
 ![r5s](images/r5s.JPG)
 
 # 環境構築
